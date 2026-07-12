@@ -138,9 +138,9 @@ Tabs.Main1:AddButton({
     end
 })
 Tabs.Main1:AddButton({
-    Title="Fix Lag",
+    Title="realkid",
     Callback=function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua"))()
     end
 })
 Tabs.Main1:AddButton({
@@ -219,14 +219,14 @@ Tabs.Main3:AddButton({
     end
 })
 Tabs.Main3:AddButton({
-    Title="Speed Hub X",
+    Title="fix lag",
     Callback=function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
     end
 })
 Tabs.Main3:AddButton({
-    Title="Pulse HUb",
+    Title="ngưng động",
     Callback=function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/Chavels123/Loader/refs/heads/main/loader.lua"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/kagefloppey-netizen/Dark-Knight-Animation-by-Kage/main/DarkKnight.lua"))()
     end
 })
